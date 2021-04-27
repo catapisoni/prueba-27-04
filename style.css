@@ -1,0 +1,167 @@
+#contenedor{
+    margin: 5%;
+    padding: 15px;
+    width: 90%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    
+}
+header{
+    color: black;
+    padding: 10px;
+    width: 100%;  
+    background: rgb(247, 213, 119);
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    float: left;
+    font-size: 50px;
+    padding: 15px;
+  
+}
+
+.logo{
+    float: left;
+    width: 30%;
+}
+
+.navbar{
+    clear:both;
+    background-color: rgba(240, 209, 169, 0.712);
+    padding: 20px;
+    text-align: right;
+    width: 100%, auto;
+    position: sticky, top;
+}
+
+a{
+    text-decoration: none;
+    background:rgb(252, 215, 168);
+    color: white;
+    padding: 15px;
+}
+
+.NuestroCafe{
+    background: rgb(49, 17, 17) ;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.NuestroCafe h1{
+    text-align: center;
+    font-size: 20px;
+}
+
+.imgcafe{
+    width: 100%, auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.especialidades{ 
+    background: rgb(247, 213, 119);
+    color: white;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+.especialidades h1{
+    text-align: center;
+    font-size: 20px;
+}
+
+.grano1{
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+.grano2{
+    float:left;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+.grano3{
+    float:right;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+.grano1, .grano2, .grano3{
+    background: rgb(247, 213, 119);
+	width: 33%;
+}
+
+.baristeria{
+    clear:both;
+    background-color: rgba(240, 209, 169, 0.712);
+    color: rgb(49, 17, 17);
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+
+.baristeria h1{
+    text-align: center;
+    font-size: 20px;
+}
+
+footer{
+    position: sticky;
+    color:white;
+    padding: 10px;
+    width: 100%;  
+    background: rgb(49, 17, 17);
+    box-sizing: border-box;
+
+}
+
+footer a{
+    color:white;
+    padding: 10px;
+    width: 100%;  
+    background: rgb(49, 17, 17);
+
+}
+
+.imgwhatsapp{
+    width: 10%;
+    background:  rgb(49, 17, 17);
+    display: inline;
+}
+
+.imgfacebook{
+    width: 5%;
+    background:  rgb(49, 17, 17);
+    display: inline;
+}
+
+.flechaarriba{
+    width: 5%;
+    background:  rgb(49, 17, 17);
+    display: inline;
+}
+
+.suscripcion{
+    color: white;
+    padding: 30px;
+    width: 100%;  
+    background:  rgb(49, 17, 17);
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
