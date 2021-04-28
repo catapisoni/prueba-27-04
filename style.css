@@ -79,22 +79,24 @@ a{
     font-size: 20px;
 }
 
+.granos{
+    background: rgb(247, 213, 119);
+    width: 100%;
+}
+
 .grano1{
-    float: left;
     padding: 10px;
     box-sizing: border-box;
 
 }
 
 .grano2{
-    float:left;
     padding: 10px;
     box-sizing: border-box;
 
 }
 
 .grano3{
-    float:right;
     padding: 10px;
     box-sizing: border-box;
 
@@ -102,7 +104,8 @@ a{
 
 .grano1, .grano2, .grano3{
     background: rgb(247, 213, 119);
-	width: 33%;
+    display: inline-block;
+	width: 32%;
 }
 
 .baristeria{
